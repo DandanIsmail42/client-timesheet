@@ -1,0 +1,12 @@
+.container {
+  background-color: rgba(238, 238, 238, 0.694);
+  width: 100%;
+  position: absolute;
+  padding: 2rem;
+
+}
+
+.tabs-wrapper{
+  margin-top: 1.5rem;
+  background-color: black;
+}
